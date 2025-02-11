@@ -1,0 +1,36 @@
+newmtl Corecontrolstairframe1Mtl
+Material Color
+Ka 0.353741 0.363604 0.420508
+Kd 0.353741 0.363604 0.420508
+Ks 0.0638121 0.0655913 0.0758563 
+
+d 1
+
+Ns 202
+
+map_Ka Corecontrolstairframe1_diff.png
+map_Kd Corecontrolstairframe1_diff.png
+map_d Corecontrolstairframe1_diff.png
+
+map_Bump Corecontrolstairframe1_nmap.png
+
+map_Ns Corecontrolstairframe1_spec.png
+
+newmtl Corecontrolstair1Mtl
+Material Color
+Ka 0.215764 0.227137 0.297653
+Kd 0.215764 0.227137 0.297653
+Ks 0.0329993 0.0347385 0.0455233 
+
+d 1
+
+Ns 168
+
+map_Ka Corecontrolstair1_diff.png
+map_Kd Corecontrolstair1_diff.png
+map_d Corecontrolstair1_diff.png
+
+map_Bump Corecontrolstair1_nmap.png
+
+map_Ns Corecontrolstair1_spec.png
+
